@@ -4,6 +4,7 @@
 > #### Xiao et al. Genome-wide dissection of the maize ear genetic architecture using multiple populations. *New Phytol*. 2016; 210(3):1095-106. doi: 10.1111/nph.13814.
 
 ==========================================
+
 ##Manual
 
 This R scripts are designed for genotype data imputation and projection, and also bin extraction, if necessary, joint linkage mapping (JLM) and genome-wide association study (GWAS).
