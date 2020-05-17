@@ -5,7 +5,7 @@
 
 ==========================================
 
-##Manual
+## Manual
 
 This R scripts are designed for genotype data imputation and projection, and also bin extraction, if necessary, joint linkage mapping (JLM) and genome-wide association study (GWAS).
 
