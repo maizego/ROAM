@@ -3,7 +3,7 @@
 >## Related papers:
 > #### Xiao et al. Genome-wide dissection of the maize ear genetic architecture using multiple populations. *New Phytol*. 2016; 210(3):1095-106. doi: 10.1111/nph.13814.
 
-==========================================
+-------------
 
 ## Manual
 
